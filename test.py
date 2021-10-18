@@ -1,3 +1,3 @@
 from typety import typingprint
 
-typingprint("hi there, this is just a test")
+typingprint("Hi there, this is just a test")
