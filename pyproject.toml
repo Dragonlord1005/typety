@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "typety"
 version = "1.0.0"
-description = ""
+description = "A simple python packages that adds a typing effect to strings"
 authors = ["Dragonlord1005"]
 homepage = "https://github.com/Dragonlord1005/typety"
 documentation = "https://typety.readthedocs.io/"
