@@ -3,5 +3,5 @@ Changelog
 =============
 
 
-- :release:`0.0.1<date>` Blank
+- :release:`1.0.0<2021-10-20>`
 - :feature:`0` Basic Functionality
