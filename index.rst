@@ -11,6 +11,7 @@ Welcome to typety's documentation!
    :caption: Contents:
 
    docs/about
+   typetydocs/modules
    changelog
 
 

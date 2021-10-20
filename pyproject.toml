@@ -11,6 +11,7 @@ packages = [
 
 [tool.poetry.dependencies]
 python = "^3.8"
+sphinx-inline-tabs = "^2021.8.17-beta.10"
 
 [tool.poetry.dev-dependencies]
 Sphinx = "^4.2.0"
