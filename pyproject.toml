@@ -1,9 +1,10 @@
 [tool.poetry]
 name = "typety"
-version = "0.0.2"
+version = "1.0.0"
 description = ""
 authors = ["Dragonlord1005"]
 homepage = "https://github.com/Dragonlord1005/typety"
+documentation = "https://typety.readthedocs.io/"
 packages = [
   { include = "typety" }
 ]
