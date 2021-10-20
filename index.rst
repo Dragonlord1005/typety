@@ -13,6 +13,7 @@ Welcome to typety's documentation!
    docs/about
    typetydocs/modules
    changelog
+   docs/help
 
 
 
