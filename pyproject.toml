@@ -8,6 +8,9 @@ documentation = "https://typety.readthedocs.io/"
 packages = [
   { include = "typety" }
 ]
+classifiers = [
+    "Topic :: Software Development :: Libraries :: Python Modules"
+]
 
 [tool.poetry.dependencies]
 python = "^3.8"
