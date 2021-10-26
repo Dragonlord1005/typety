@@ -31,5 +31,5 @@ replit = "sphinx-autobuild . _build --port=3000 --host=0.0.0.0 -a"
 publish = "poetry publish --build"
 
 [build-system]
-requires = ["poetry-core>=1.0.0"]
+requires = ["poetry_core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
