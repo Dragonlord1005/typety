@@ -23,7 +23,7 @@ poethepoet = "^0.13.0"
 sphinx-rtd-theme = "^1.0.0"
 releases = "^1.6.3"
 six = "^1.16.0"
-sphinx-inline-tabs = "^2021.8.17-beta.10"
+sphinx-inline-tabs = "^2023.0.0"
 
 [tool.poe.tasks]
 replit = "sphinx-autobuild . _build --port=3000 --host=0.0.0.0 -a"
