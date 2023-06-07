@@ -1,7 +1,7 @@
 sphinx-autobuild== 2021.3.14
 sphinx-copybutton==0.5.0
 poethepoet==0.13.1
-sphinx-rtd-theme== 1.0.0
+sphinx-rtd-theme==1.2.2
 releases== 1.6.3
 six== 1.16.0
 sphinx-inline-tabs== 2021.8.17b10
